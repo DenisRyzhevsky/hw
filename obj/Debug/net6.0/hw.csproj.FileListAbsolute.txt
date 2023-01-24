@@ -1,0 +1,15 @@
+/Users/denisryzhevsky/Documents/hw/bin/Debug/net6.0/hw
+/Users/denisryzhevsky/Documents/hw/bin/Debug/net6.0/hw.deps.json
+/Users/denisryzhevsky/Documents/hw/bin/Debug/net6.0/hw.runtimeconfig.json
+/Users/denisryzhevsky/Documents/hw/bin/Debug/net6.0/hw.dll
+/Users/denisryzhevsky/Documents/hw/bin/Debug/net6.0/hw.pdb
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/hw.csproj.AssemblyReference.cache
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/hw.AssemblyInfoInputs.cache
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/hw.AssemblyInfo.cs
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/hw.csproj.CoreCompileInputs.cache
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/hw.dll
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/refint/hw.dll
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/hw.pdb
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/hw.genruntimeconfig.cache
+/Users/denisryzhevsky/Documents/hw/obj/Debug/net6.0/ref/hw.dll
